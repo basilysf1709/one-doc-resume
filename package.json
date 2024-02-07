@@ -1,0 +1,20 @@
+{
+  "name": "one-doc-resume",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@onedoc/client": "^0.1.28",
+    "@onedoc/react-print": "^0.1.39",
+    "dotenv": "^16.4.1",
+    "react-dom": "^18.2.0"
+  }
+}
